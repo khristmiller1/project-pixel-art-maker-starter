@@ -1,9 +1,11 @@
 body {
     text-align: center;
+    font-family: 'Skranji', cursive;
+    background: #c2c8d1;
+    color:#a8592f;
 }
 
 h1 {
-    font-family: Monoton;
     font-size: 70px;
     margin: 0.2em;
 }
