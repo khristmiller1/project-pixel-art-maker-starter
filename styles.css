@@ -1,8 +1,8 @@
 body {
     text-align: center;
     font-family: 'Skranji', cursive;
-    background: #c2c8d1;
-    color:#a8592f;
+    background: #151516;
+    color:#f6f7f2;
 }
 
 h1 {
@@ -21,7 +21,7 @@ h2:first-of-type {
 table,
 tr,
 td {
-    border: 1px solid black;
+    border: 1px solid white;
 }
 
 table {
@@ -39,4 +39,7 @@ td {
 
 input[type=number] {
     width: 6em;
+}
+.dark_text{
+  color:#191917;
 }
